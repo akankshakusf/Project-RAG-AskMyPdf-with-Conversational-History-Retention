@@ -56,11 +56,11 @@ embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 #---------------#  Setting up the Streamlit app  #---------------#
 
-st.title("AskMYPDF RAG with Chat History") #displayed on app
+st.title("AskMyPDF RAG with Chat History") #displayed on app
 st.write("Upload pdf's and chat with their content") #displayed on app
 
 # input the Groq api key 
-api_key=st.text_input("Enter the Groq API key", type="password",groq_api_key=groq_api_key) #display on app
+api_key=st.text_input("Enter the Groq API key", type="password",value=groq_api_key) #display on app
 
 #check if api is inserted:
 if api_key:
