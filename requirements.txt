@@ -1,0 +1,56 @@
+# Core Libraries for LangChain and LLM Integration
+
+# Environment and Data Handling
+python-dotenv  # Loads environment variables from .env files (e.g., API keys)
+pandas  # Data analysis and manipulation library
+duckdb  # Fast, embedded analytics database for structured data
+ipykernel  # Jupyter kernel for running Python notebooks in interactive environments
+
+# Web and UI Frameworks
+streamlit  # build and deploy interactive web apps for machine learning and data science
+
+langchain  # Core LangChain library for building applications using LLMs
+langchain-community  # Community-maintained integrations for tools, document loaders etc
+langchain-openai  # LangChain integration for OpenAI models
+langchain-ollama  # LangChain integration for Ollama models (open-source LLMs)
+langchain_huggingface  # LangChain integration for Hugging Face models
+langchain_chroma  # LangChain integration with ChromaDB for vector storage
+langchain_groq  # LangChain integration with Groq API for efficient LLM inference
+openai  # OpenAI API wrapper for interacting with GPT models
+
+# Langchain Vector Databases and Embeddings
+langchain_core  # Core components of LangChain for modular LLM applications
+langchain_text_splitters  # Utility for splitting large text documents into smaller chunks
+chromadb  # Vector database for storing and retrieving embeddings
+sentence_transformers  # Converts sentences into numerical vectors for NLP applications
+faiss-cpu  # Facebook AI Similarity Search (FAISS) for fast vector similarity searches
+
+# Web Frameworks for API Deployment
+fastapi  # High-performance web framework for building APIs with Python
+uvicorn  # ASGI server for running FastAPI applications
+langserve  # Serves LangChain-based models as APIs
+sse_starlette  # Server-Sent Events (SSE) support for FastAPI applications
+
+# Document Processing and Web Scraping
+pypdf  # Extracts text and metadata from PDF files
+pymupdf  # Alternative PDF processing library for extracting text and images
+bs4  # BeautifulSoup for parsing HTML and scraping web data
+wikipedia  # API wrapper for fetching Wikipedia articles
+arxiv  # API for accessing research papers from Arxiv
+duckduckgo-search #used to search mass search on web
+
+
+#youtube project
+validators==0.28.1  # Package for validating URLs, emails, and other inputs
+youtube_transcript_api  # Fetch YouTube video transcripts without an API key
+unstructured
+pytube
+validators
+huggingface-hub
+
+
+
+
+
+
+
