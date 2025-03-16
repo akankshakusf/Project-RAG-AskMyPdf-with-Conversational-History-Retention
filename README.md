@@ -1,4 +1,4 @@
-# 🚀 RAG Doc Q&A with Memory Retention Power by Groq & Hugging Face
+# 🚀 RAG Doc Q&A with Memory Retention ---- Powered by Groq & Hugging Face
 
 App link : https://project-rag-askmypdf-with-conversational-history-retention-keu.streamlit.app/
 
