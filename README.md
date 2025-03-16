@@ -13,7 +13,7 @@ This project implements **Retrieval-Augmented Generation (RAG)** using **Groq’
 
 ---
 ## Proof of Memory Retenstion:
-![Memory Retention Proof](https://raw.githubusercontent.com/akankshakusf/Project-RAG-AskMyPdf-with-Conversational-History-Retention/master/Proof%20of%20Memory%20Retention.png)
+![Memory Retention Proof](https://github.com/akankshakusf/Project-RAG-AskMyPdf-with-Conversational-History-Retention/blob/master/image.png)
 
 
 
