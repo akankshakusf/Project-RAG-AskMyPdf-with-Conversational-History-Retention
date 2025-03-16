@@ -12,7 +12,7 @@ os.environ["SSL_CERT_FILE"] = certifi.where()
 #---------------------------------------------------
 #for steamlit deployment only 
 HF_TOKEN = st.secrets["HF_TOKEN"] #Comment both key when runing on vs code 
-GROQ_API_KEY = st.secrets["GROQ_API_KEY"] #Comment both key when runing on vs code 
+groq_api_key = st.secrets["GROQ_API_KEY"] #Comment both key when runing on vs code 
 #---------------------------------------------------
 
 ####  RAG libraries START ####
